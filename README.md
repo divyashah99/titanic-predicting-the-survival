@@ -1,1 +1,1 @@
-# titanic-predicting-the-survival
+# Titanic: Machine Learning from Disaster (0.77 accuracy)
